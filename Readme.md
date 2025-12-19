@@ -1,6 +1,9 @@
 # [Home](index) | [Success Stories](./stories) | [Live Inventory](./inventory) | [Support](./support) | [The Mission](./mission) | [Contact](./contact)
 ---
-![Lucky's Walk-In Banner](AraysAttireTranspantlogo.jpg)# Lucky's Walk-In
+
+![Lucky's Walk-In Banner](Arays Attire Transparent logo.png)
+
+# Lucky's Walk-In
 ### *Where Potential Meets Opportunity*
 
 [Our Mission](./mission) | [How to Support](./support) | [Contact Us](./contact)
