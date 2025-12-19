@@ -2,11 +2,20 @@ title: Lucky's Walk-In
 description: >-
   Lucky’s Walk-In is a community-driven initiative dedicated to empowering 
   individuals on their journey to a fresh start. We provide professional 
-  attire, confidence-building resources, and a supportive environment for 
-  those seeking second chances in the workforce.
+  attire, confidence-building resources, and a supportive environment.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
 
-# This line is the "Secret Sauce" for your inventory
+# Navigation links for your header
+header_pages:
+  - index.md
+  - mission.md
+  - stories.md
+  - inventory.md
+  - support.md
+  - contact.md
+
+# Tells Jekyll to look for your inventory data
 data_dir: _data
