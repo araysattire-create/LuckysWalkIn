@@ -1,18 +1,12 @@
 title: Lucky's Walk-In
-description: # Lucky's Walk-In: More Than Just a Suit
+description: >-
+  Lucky’s Walk-In is a community-driven initiative dedicated to empowering 
+  individuals on their journey to a fresh start. We provide professional 
+  attire, confidence-building resources, and a supportive environment for 
+  those seeking second chances in the workforce.
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
 
-### The Mission
-At **Lucky's Walk-In**, we believe that a person's past shouldn't dictate their future. Our mission is to bridge the gap between "getting a chance" and "taking a chance." We provide high-quality professional clothing and interview preparation for individuals re-entering the community and the workforce.
-
-### Why We Do It
-A first impression can change a life. For many of our clients, the lack of appropriate attire is the final barrier to employment. We remove that barrier by providing:
-* **Tailored Confidence:** Suitings and professional wear for men and women.
-* **Interview Coaching:** Helping you tell your story with pride.
-* **Community Connection:** A network of partners who believe in second chances.
-
-### Who We Serve
-We work with local organizations, correctional facilities, and community leaders to support those who are ready to work but need the "walk-in" confidence to get through the door.
-
----
-**"Victorious in every step."**
-theme: jekyll-theme-minimal
+# This line is the "Secret Sauce" for your inventory
+data_dir: _data
